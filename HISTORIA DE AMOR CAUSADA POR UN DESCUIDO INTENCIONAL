@@ -107,6 +107,22 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/mXG6Tuc/"
       },
+      "last_updated": "1619043765"
+    },
+    "14": {
+      "title": "Capítulo 14",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/3ZYDwTx/"
+      },
+      "last_updated": "1619043765"
+    },
+    "15": {
+      "title": "Capítulo 15",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/olQS5S3/"
+      },
       "last_updated": "1619043765"        
     }    
   }
